@@ -1,0 +1,23 @@
+
+media:
+  input: media
+  output: /media
+
+content:
+  - name: portfolio
+    label: Portfolio
+    type: collection
+    path: content/portfolio
+    fields:
+      - name: title
+        label: Project Title
+        type: string
+      - name: description
+        label: Description
+        type: text
+      - name: cover
+        label: Cover Photo
+        type: image
+      - name: gallery_url
+        label: Pixieset Gallery URL
+        type: string
