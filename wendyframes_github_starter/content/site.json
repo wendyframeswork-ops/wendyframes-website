@@ -1,0 +1,29 @@
+{
+  "hero_eyebrow": "Malaysia-based photographer · WendyFrames",
+  "hero_title": "Art in every frame.",
+  "hero_description": "Thoughtful imagery for food, brands, and the moments worth remembering. Crafted with an eye for detail and a love for storytelling.",
+  "hero_image": "",
+  "portrait_image": "",
+  "about_title": "Hi, I'm the eye behind WendyFrames.",
+  "about_paragraph_1": "I create considered photographs that help brands show their personality and people hold onto their favourite moments.",
+  "about_paragraph_2": "My focus is food, desserts and product imagery, with selected lifestyle and event projects. Every shoot begins with understanding the feeling you want your photographs to convey.",
+  "instagram_url": "https://www.instagram.com/wendyframess/",
+  "pixieset_url": "https://wendyframes.pixieset.com/",
+  "services": [
+    {
+      "title": "Food & Dessert",
+      "description": "Photography for cafés, bakeries, restaurants and dessert brands. Menu images, social content and launch campaigns.",
+      "note": "Custom quotation"
+    },
+    {
+      "title": "Product & Brand",
+      "description": "Product photography and visual content for brands that want consistent, polished imagery across their channels.",
+      "note": "Custom quotation"
+    },
+    {
+      "title": "Portraits & Events",
+      "description": "Selected portraits, birthday celebrations and intimate events, captured naturally and thoughtfully.",
+      "note": "Subject to availability"
+    }
+  ]
+}
